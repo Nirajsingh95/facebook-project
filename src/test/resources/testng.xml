@@ -4,9 +4,9 @@
 
 	<test name="ToolsQA">
 
-		<parameter name="username" value="sasi.silva152@gmail.com" />
+		<parameter name="username" value="" />
 
-		<parameter name="password" value="Asdf@1121" />
+		<parameter name="password" value="" />
 		
 		<parameter name="chromeExeFilePath" value="/Users/naveenkhunteta/Downloads/chromedriver.exe" />
 
