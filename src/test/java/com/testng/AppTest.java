@@ -71,7 +71,7 @@ public class AppTest {
     /**
      * click on facebook profile
      */
-    
+   /** 
     @Test(priority = 2)
     public void testClickProfile() throws IOException {
         WebElement profile = webdriver.findElement(By.className("x3ajldb"));
@@ -79,7 +79,7 @@ public class AppTest {
 
         // to take screenshot
         ScreenShotUtil.takeScreenShot(webdriver);
-
+    */
     }
 
     /**
