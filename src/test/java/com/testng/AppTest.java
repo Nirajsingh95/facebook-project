@@ -79,9 +79,9 @@ public class AppTest {
 
         // to take screenshot
         ScreenShotUtil.takeScreenShot(webdriver);
-    */
+    
     }
-
+    */
     /**
      * click on facebook home
      */
