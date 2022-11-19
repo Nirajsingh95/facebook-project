@@ -8,7 +8,7 @@
 
 		<parameter name="password" value="" />
 		
-		<parameter name="chromeExeFilePath" value="/chromedriver/chromedriver.exe" />
+		<parameter name="chromeExeFilePath" value="/Users/naveenkhunteta/Downloads/chromedriver.exe" />
 
 		<classes>
 			<class name="com.testng.AppTest" />
